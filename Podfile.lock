@@ -1,0 +1,27 @@
+PODS:
+  - PNUI (0.1.0)
+  - SCNPath (1.2.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - PNUI (from `../PNUI`)
+  - SCNPath
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SCNPath
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PNUI:
+    :path: "../PNUI"
+
+SPEC CHECKSUMS:
+  PNUI: 959501760e7500cd5b02bf9f1cf40737b6f19698
+  SCNPath: bdf16647115f12a1f9653e7940f5441ab92f20b3
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 86584b0af75c373d5e887837a9adef37f7432085
+
+COCOAPODS: 1.15.2
